@@ -8,6 +8,10 @@
       "url": "https://www.opensource.org/licenses/mit-license.php"
     }
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pqxglobal/reactjs.git"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
