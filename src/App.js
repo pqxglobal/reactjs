@@ -1,12 +1,14 @@
 import React, { Component } from 'react';
 import './App.css';
-import FRParentInput from './components/FRParentInput';
+import ClickCounter from './components/ClickCounter';
+import HoverCounter from './components/HoverCounter';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <FRParentInput />
+        <ClickCounter name='Vishwas' />
+        <HoverCounter name='Vishwas' />
       </div>
     );
   }
